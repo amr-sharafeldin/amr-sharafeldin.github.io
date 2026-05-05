@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amr Sharafeldin</title>
+
+    <meta name="description" content="Personal webpage with biography, work experience, publications, selected projects, and spotlights.">
+    <meta name="author" content="Amr Sharafeldin">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+
+    <link rel="icon" type="image/png" sizes="32x32" href="/content/profile/icon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/content/profile/icon.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <link rel="stylesheet" href="assets/css/site.css">
+</head>
+
+<body>
+    <nav class="top-tabs" aria-label="Page sections">
+        <div class="top-tabs-inner" data-nav></div>
+    </nav>
+
+    <main class="page" id="top">
+        <header class="site-header" data-profile></header>
+
+        <section class="section section-card section-work" id="work-experience" data-section="workExperience">
+            <h2 class="section-title">Work Experience</h2>
+            <div data-work-list></div>
+        </section>
+
+        <section class="section section-card section-publications" id="publications" data-section="publications">
+            <h2 class="section-title">Publications</h2>
+            <div data-publications-list></div>
+        </section>
+
+        <section class="section section-card section-projects" id="projects" data-section="projects">
+            <h2 class="section-title">Selected Projects</h2>
+            <div class="projects-grid" data-projects-list></div>
+        </section>
+
+        <section class="section section-card section-spotlights" id="spotlights" data-section="spotlights">
+            <h2 class="section-title">Spotlights</h2>
+            <div class="spotlight-list" data-spotlights-list></div>
+        </section>
+
+        <footer class="site-footer" data-footer></footer>
+    </main>
+
+    <canvas data-paper-noise class="paper-noise"></canvas>
+
+    <script src="assets/js/site.js"></script>
+</body>
+</html>
