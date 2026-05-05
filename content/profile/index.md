@@ -4,7 +4,7 @@ Name: Amr Sharafeldin
 Photo: media/profile.PNG
 Icon: media/icon.png
 
-Hello! I am an undergraduate student in the School of Computing Science at Simon Fraser University in Burnaby, BC, currently in my final year, where I conduct research with the GRUVI Lab. My work focuses on interactive scene editing and semantic understanding for novel view synthesis methods.
+Hello! I am an undergraduate student in the School of Computing Science at Simon Fraser University in Burnaby, BC, currently in my final year. My work focuses on interactive scene editing and semantic understanding for novel view synthesis methods.
 
 In 2026, I collaborated with Theia Lab, advised by Shrisudhan Govindarajan and Daniel Rebain, where I extended the 3D reconstruction representation Radiant Foam toward semantic understanding. This work led to my first first-author paper at CVPR 2026 (Spotlight).
 
