@@ -6,13 +6,13 @@ Icon: media/icon.png
 
 Hello! I am an undergraduate student in the School of Computing Science at Simon Fraser University in Burnaby, BC, currently in my final year, where I conduct research with the GRUVI Lab. My work focuses on interactive scene editing and semantic understanding for novel view synthesis methods.
 
-In 2026, I collaborated with Theia Lab under the mentorship of Shrisudhan Govindarajan and Daniel Rebain, where I extended the 3D reconstruction representation Radiant Foam toward semantic understanding. This work led to my first first-author paper at CVPR 2026 (Spotlight).
+In 2026, I collaborated with Theia Lab, advised by Shrisudhan Govindarajan and Daniel Rebain, where I extended the 3D reconstruction representation Radiant Foam toward semantic understanding. This work led to my first first-author paper at CVPR 2026 (Spotlight).
 
-Previously, in 2025, I was awarded an Undergraduate Student Research Award (USRA) while working as a research assistant at the Network and Multimedia Systems Lab (NMSL) at Simon Fraser University. I worked with Shahrazad Mirzaei under the supervision of Mohamed Hefeeda, exploring hyperspectral imaging on mobile devices under non-Lambertian lighting conditions.
+Previously, in 2025, I was awarded an Undergraduate Student Research Award (USRA) while working as a research assistant at the Network and Multimedia Systems Lab (NMSL) at Simon Fraser University. I worked with Shahrazad Mirzaei, advised by Mohamed Hefeeda, exploring hyperspectral imaging on mobile devices under non-Lambertian lighting conditions.
 
-Before that, I worked at the Centre for Digital Media under the mentorship of Yangos Hadjiyannis, where we collaborated with Low Tide Properties to develop VR concepts for large-scale art installations.
+Before that, I worked at the Centre for Digital Media, advised by Yangos Hadjiyannis, where we collaborated with Low Tide Properties to develop VR concepts for large-scale art installations.
 
-Most recently, I worked at Walt Disney Animation Studios as a CG Generalist Intern, mentored by Marie Tollec, Mike Navarro, and Edoardo Pili. There, I led research on generative workflows for a short film, combining traditional and generative methods.
+Most recently, I worked at Walt Disney Animation Studios as a CG Generalist Intern, advised by Marie Tollec, Mike Navarro, and Edoardo Pili. There, I led research on generative workflows for a short film, combining traditional and generative methods.
 ## Links
 
 - [Email](ams47@sfu.ca)
